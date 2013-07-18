@@ -36,6 +36,9 @@ Compression results of several compression applications (default settings) for t
 Original size: 1 344 739 bytes
 
 Compressed by ZIP: 490 883 bytes
+
 Compressed by 7-Zip: 386 768 bytes
+
 Compressed by BZ2: 349 584 bytes
+
 Compressed by **PPM**: 323 934 bytes
